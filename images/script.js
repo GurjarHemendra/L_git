@@ -9,3 +9,9 @@ let d=  40;
 function add() {
     return a + b + c + d;
 }   
+function add1() {
+    return a + b + c + d;
+}   
+function add2() {
+    return a + b + c + d;
+}   
