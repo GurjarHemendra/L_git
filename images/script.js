@@ -12,4 +12,6 @@ function addNumbers() {
 
 let d=40;
 let e=50;
-
+()=>{
+    console.log("This is an arrow function");
+}
